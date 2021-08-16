@@ -19,6 +19,7 @@ Useful questions should be general in nature such that they apply to anything in
  - What is the problem?
  - Why is this a problem?
  - Who thinks this is a problem?
+ - How big is this problem?
  - Who has the problem?
  - Does the person who have the problem actually want it solved?
  - Why does the person who has the problem want or not want it solved?
