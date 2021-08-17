@@ -17,6 +17,7 @@ Useful questions should be general in nature such that they apply to anything in
 ## For finding problems
  - Is this a problem?
  - What is the problem?
+ - What type of problem is it?
  - Why is this a problem?
  - Who thinks this is a problem?
  - How big is this problem?
