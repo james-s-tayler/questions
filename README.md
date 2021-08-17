@@ -6,13 +6,18 @@ Useful questions should be general in nature such that they apply to anything in
 
 ## For owning a piece of software
  - What is this thing?
- - What is it made out of?
+ - Why does it exist?
  - What does it do?
- - How does it do that?
- - How do I make it do that?
- - How do I run it?
- - How can I see what it's doing?
- - How can I see how it behaves?
+ - What is it made out of?
+ - How does it do what it does?
+ - How do I start it up?
+ - How do I make it do stuff?
+ - How can I see what it’s doing?
+ - How does it get built?
+ - How do I deploy it to QA?
+ - How do I release it to production?
+ - How can I see how it behaves in production?
+ - What is the future of this thing?
 
 ## For finding problems
  - Is this a problem?
