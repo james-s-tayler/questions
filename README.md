@@ -40,6 +40,7 @@ Useful questions should be general in nature such that they apply to anything in
  - For how long are we willing to tolerate this problem?
  - Why are we willing to tolerate this problem?
  - How did this become a problem?
+ - What can be done about this problem?
  - Where did this problem come from?
  - Where do we find this problem?
    - Problem Space                   
