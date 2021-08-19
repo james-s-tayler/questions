@@ -22,6 +22,7 @@ Useful questions should be general in nature such that they apply to anything in
 ## For finding problems
  - Is this a problem?
  - What is the problem?
+   - What is the perception of things as they are vs. the desire for how they should be? 
  - What type of problem is it?
  - Why is this a problem?
  - Who thinks this is a problem?
