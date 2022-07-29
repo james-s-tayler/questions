@@ -16,8 +16,10 @@ Useful questions should be general in nature such that they apply to anything in
  - How does it get built?
  - How do I deploy it to QA?
  - How do I release it to production?
+ - How can I tell the current version running in production?
  - How can I see how it behaves in production?
  - What is the future of this thing?
+ - What don't we love about this thing?
 
 ## For finding problems
  - Is this a problem?
